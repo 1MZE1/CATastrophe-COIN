@@ -1,0 +1,26 @@
+{
+  "name": "Catastrophe Coin",
+  "symbol": "CAT",
+  "description": "Memecoin. When the world ends, only $CAT survives.",
+  "image": "./logo.pg",
+  "decimals": 18,
+  "totalSupply": "420069000000000000000000",
+  "website": "",
+  "social": {
+    "twitter": "",
+    "telegram": "",
+    "discord": ""
+  },
+  "theme": {
+    "primaryColor": "#FF1493",
+    "secondaryColor": "#000000",
+    "backgroundColor": "#FFFF00"
+  },
+  "slogans": [
+    "When the world ends, only $CAT survives.",
+    "",
+    "",
+    "$CAT – scratch your way to the moon."
+  ],
+  "tags": ["memecoin", "cat", "pump", "chaos", "ethereum"]
+}
